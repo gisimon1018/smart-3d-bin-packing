@@ -1,0 +1,21 @@
+# Python 가상환경 및 캐시
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# macOS / Windows 시스템 파일
+.DS_Store
+Thumbs.db
+
+# Unity 캐시 및 빌드 파일 (함께 올리는 경우)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
